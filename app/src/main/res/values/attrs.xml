@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="iconicTextView">
+        <attr name="c_icon" format="integer" />
+        <attr name="c_value" format="string" />
+        <attr name="c_font">
+            <enum name="Yekan" value="1" />
+        </attr>
+        <attr name="c_color" format="integer" />
+    </declare-styleable>
+</resources>
